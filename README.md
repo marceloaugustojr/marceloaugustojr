@@ -1,6 +1,11 @@
 # 👩🏻‍💻 Marcelo Augusto
 
-<img src = "banner-1.0" width = "325px" align = "right">
+<img
+  src="banner-1.0.gif"
+  alt="Imagem de perfil"
+  align="right"
+  width="320px"
+/>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mjr33" target="_blank">
