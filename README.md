@@ -4,7 +4,8 @@
   src="banner-1.0.gif"
   alt="Imagem de perfil"
   align="right"
-  width="320px"
+  width="280px"
+  height="160px"
 />
 
 <p align="left">
