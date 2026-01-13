@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Marcelo Augusto
 
 <img
-  src="banner-3.0.gif"
+  src="banner-1.0.gif"
   alt="Imagem de perfil"
   align="right"
   width="320px"
